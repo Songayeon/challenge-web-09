@@ -6,7 +6,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>header:TopMenu</title>
-	<link rel="stylesheet" type="text/css" href="css/global.css">
+	<link rel="stylesheet" type="text/css" href="css/global.css?ver=1">
 </head>
 <body>
 
